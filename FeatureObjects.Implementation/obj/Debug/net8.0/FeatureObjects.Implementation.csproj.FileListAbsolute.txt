@@ -1,0 +1,17 @@
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Implementation\obj\Debug\net8.0\FeatureObjects.Implementation.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Implementation\obj\Debug\net8.0\FeatureObjects.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Implementation\obj\Debug\net8.0\FeatureObjects.Implementation.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Implementation\obj\Debug\net8.0\FeatureObjects.Implementation.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Implementation\obj\Debug\net8.0\FeatureObjects.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Implementation\bin\Debug\net8.0\FeatureObjects.Implementation.deps.json
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Implementation\bin\Debug\net8.0\FeatureObjects.Implementation.dll
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Implementation\bin\Debug\net8.0\FeatureObjects.Implementation.pdb
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Implementation\bin\Debug\net8.0\DataStore.Abstraction.dll
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Implementation\bin\Debug\net8.0\FeatureObjects.Abstraction.dll
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Implementation\bin\Debug\net8.0\DataStore.Abstraction.pdb
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Implementation\bin\Debug\net8.0\FeatureObjects.Abstraction.pdb
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Implementation\obj\Debug\net8.0\FeatureO.8774B252.Up2Date
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Implementation\obj\Debug\net8.0\FeatureObjects.Implementation.dll
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Implementation\obj\Debug\net8.0\refint\FeatureObjects.Implementation.dll
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Implementation\obj\Debug\net8.0\FeatureObjects.Implementation.pdb
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Implementation\obj\Debug\net8.0\ref\FeatureObjects.Implementation.dll

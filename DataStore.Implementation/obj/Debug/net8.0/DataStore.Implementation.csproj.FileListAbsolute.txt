@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\Bookstore\DataStore.Implementation\bin\Debug\net8.0\DataStore.Implementation.deps.json
+C:\Users\HP\OneDrive\Desktop\Bookstore\DataStore.Implementation\bin\Debug\net8.0\DataStore.Implementation.dll
+C:\Users\HP\OneDrive\Desktop\Bookstore\DataStore.Implementation\bin\Debug\net8.0\DataStore.Implementation.pdb
+C:\Users\HP\OneDrive\Desktop\Bookstore\DataStore.Implementation\bin\Debug\net8.0\DataStore.Abstraction.dll
+C:\Users\HP\OneDrive\Desktop\Bookstore\DataStore.Implementation\bin\Debug\net8.0\DataStore.Abstraction.pdb
+C:\Users\HP\OneDrive\Desktop\Bookstore\DataStore.Implementation\obj\Debug\net8.0\DataStore.Implementation.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Bookstore\DataStore.Implementation\obj\Debug\net8.0\DataStore.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Bookstore\DataStore.Implementation\obj\Debug\net8.0\DataStore.Implementation.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Bookstore\DataStore.Implementation\obj\Debug\net8.0\DataStore.Implementation.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Bookstore\DataStore.Implementation\obj\Debug\net8.0\DataStore.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Bookstore\DataStore.Implementation\obj\Debug\net8.0\DataStor.80496367.Up2Date
+C:\Users\HP\OneDrive\Desktop\Bookstore\DataStore.Implementation\obj\Debug\net8.0\DataStore.Implementation.dll
+C:\Users\HP\OneDrive\Desktop\Bookstore\DataStore.Implementation\obj\Debug\net8.0\refint\DataStore.Implementation.dll
+C:\Users\HP\OneDrive\Desktop\Bookstore\DataStore.Implementation\obj\Debug\net8.0\DataStore.Implementation.pdb
+C:\Users\HP\OneDrive\Desktop\Bookstore\DataStore.Implementation\obj\Debug\net8.0\ref\DataStore.Implementation.dll

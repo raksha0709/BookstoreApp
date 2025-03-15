@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Abstraction\bin\Debug\net8.0\FeatureObjects.Abstraction.deps.json
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Abstraction\bin\Debug\net8.0\FeatureObjects.Abstraction.dll
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Abstraction\bin\Debug\net8.0\FeatureObjects.Abstraction.pdb
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Abstraction\obj\Debug\net8.0\FeatureObjects.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Abstraction\obj\Debug\net8.0\FeatureObjects.Abstraction.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Abstraction\obj\Debug\net8.0\FeatureObjects.Abstraction.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Abstraction\obj\Debug\net8.0\FeatureObjects.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Abstraction\obj\Debug\net8.0\FeatureObjects.Abstraction.dll
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Abstraction\obj\Debug\net8.0\refint\FeatureObjects.Abstraction.dll
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Abstraction\obj\Debug\net8.0\FeatureObjects.Abstraction.pdb
+C:\Users\HP\OneDrive\Desktop\Bookstore\FeatureObjects.Abstraction\obj\Debug\net8.0\ref\FeatureObjects.Abstraction.dll
